@@ -1,11 +1,3 @@
-/* let nombre = prompt("Ingrese el nombre").toLowerCase();
-
-if (nombre != "" && (nombre === "ANA" || nombre === "ana")) {
- alert(`Hola ${nombre}`);
-} else {
-   alert("No eres Ana");
- } */
-
 let edad = parseInt(prompt("Ingrese su edad (numero)"));
 
  if (edad < 18) {
@@ -22,6 +14,3 @@ alert(`entrada #${entrada} Nombre: ${nombre}`);
 }
 
 alert("No puedes compras mas de 2 ticket por operación. Muchas gracias");
-
-
-
